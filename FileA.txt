@@ -1,2 +1,0 @@
-This is FileA.
-Change in this file.
